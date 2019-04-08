@@ -719,7 +719,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 164190, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 3}
       propertyPath: m_Name
-      value: Picture_Grandchildren
+      value: Frame_Grandchild
       objectReference: {fileID: 0}
     - target: {fileID: 478108, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3860,7 +3860,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 164190, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 3}
       propertyPath: m_Name
-      value: Picture_Wedding
+      value: Frame_Wedding
       objectReference: {fileID: 0}
     - target: {fileID: 164190, guid: 14691c451e07ff94cb94be3f44e72ab7, type: 3}
       propertyPath: m_IsActive
@@ -4220,7 +4220,7 @@ GameObject:
   - component: {fileID: 1947008346}
   - component: {fileID: 1947008345}
   m_Layer: 0
-  m_Name: Pic_Wedding
+  m_Name: Picture_Wedding
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
