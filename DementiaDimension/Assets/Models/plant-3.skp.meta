@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 688b4a964d29bf143adf12c0b9f4a91e
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: eb8f84cc091f09d1a7fbce938679d81e
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.359945, y: 3.5327408, z: -7.6159086}
+      lookAt: {x: -16.723928, y: -7.820311, z: 29.546484}
+      up: {x: -0.13732943, y: 0.9694049, z: 0.20345703}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Group 11
+    100004: Group 13
+    100006: Group 15
+    100008: Group 17
+    100010: Group 19
+    100012: Group 21
+    100014: Group 23
+    100016: Group 25
+    100018: Group 26
+    100020: Group 28
+    100022: Group 3
+    100024: Group 30
+    100026: Group 32
+    100028: Group 34
+    100030: Group 36
+    100032: Group 38
+    100034: Group 4
+    100036: Group 40
+    100038: Group 42
+    100040: Group 44
+    100042: Group 46
+    100044: Group 48
+    100046: Group 5
+    100048: Group 50
+    100050: Group 51
+    100052: Group 53
+    100054: Group 55
+    100056: Group 57
+    100058: Group 59
+    100060: Group 61
+    100062: Group 63
+    100064: Group 65
+    100066: Group 67
+    100068: Group 69
+    100070: Group 7
+    100072: Group 71
+    100074: Group 73
+    100076: Group 9
+    100078: //RootNode
+    400000: Component#1
+    400002: Group 11
+    400004: Group 13
+    400006: Group 15
+    400008: Group 17
+    400010: Group 19
+    400012: Group 21
+    400014: Group 23
+    400016: Group 25
+    400018: Group 26
+    400020: Group 28
+    400022: Group 3
+    400024: Group 30
+    400026: Group 32
+    400028: Group 34
+    400030: Group 36
+    400032: Group 38
+    400034: Group 4
+    400036: Group 40
+    400038: Group 42
+    400040: Group 44
+    400042: Group 46
+    400044: Group 48
+    400046: Group 5
+    400048: Group 50
+    400050: Group 51
+    400052: Group 53
+    400054: Group 55
+    400056: Group 57
+    400058: Group 59
+    400060: Group 61
+    400062: Group 63
+    400064: Group 65
+    400066: Group 67
+    400068: Group 69
+    400070: Group 7
+    400072: Group 71
+    400074: Group 73
+    400076: Group 9
+    400078: //RootNode
+    2100000: _defaultMat
+    2100002: '[Color_B16]'
+    2100004: '[Vegetation_Blur7]2'
+    2100006: '[Color_G16]'
+    2100008: '[Color_F11]'
+    2300000: Component#1
+    2300002: Group 11
+    2300004: Group 13
+    2300006: Group 15
+    2300008: Group 17
+    2300010: Group 19
+    2300012: Group 21
+    2300014: Group 23
+    2300016: Group 26
+    2300018: Group 28
+    2300020: Group 30
+    2300022: Group 32
+    2300024: Group 34
+    2300026: Group 36
+    2300028: Group 38
+    2300030: Group 40
+    2300032: Group 42
+    2300034: Group 44
+    2300036: Group 46
+    2300038: Group 48
+    2300040: Group 5
+    2300042: Group 51
+    2300044: Group 53
+    2300046: Group 55
+    2300048: Group 57
+    2300050: Group 59
+    2300052: Group 61
+    2300054: Group 63
+    2300056: Group 65
+    2300058: Group 67
+    2300060: Group 69
+    2300062: Group 7
+    2300064: Group 71
+    2300066: Group 73
+    2300068: Group 9
+    3300000: Component#1
+    3300002: Group 11
+    3300004: Group 13
+    3300006: Group 15
+    3300008: Group 17
+    3300010: Group 19
+    3300012: Group 21
+    3300014: Group 23
+    3300016: Group 26
+    3300018: Group 28
+    3300020: Group 30
+    3300022: Group 32
+    3300024: Group 34
+    3300026: Group 36
+    3300028: Group 38
+    3300030: Group 40
+    3300032: Group 42
+    3300034: Group 44
+    3300036: Group 46
+    3300038: Group 48
+    3300040: Group 5
+    3300042: Group 51
+    3300044: Group 53
+    3300046: Group 55
+    3300048: Group 57
+    3300050: Group 59
+    3300052: Group 61
+    3300054: Group 63
+    3300056: Group 65
+    3300058: Group 67
+    3300060: Group 69
+    3300062: Group 7
+    3300064: Group 71
+    3300066: Group 73
+    3300068: Group 9
+    4300000: Mesh Component#1
+    4300002: Mesh Group 5
+    4300004: Mesh Group 7
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

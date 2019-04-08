@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: c4f4de781c961014ba17e4046eed7e96
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000001100000014000000150000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f0000004000000041000000420000004300000044000000450000004600000047000000480000004900000064000000650000006c0000006d0000006e0000006f00000070000000710000007200000073000000740000007500000076000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 5504a61f8b681944b697c362bec84fb8
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 9.956875, y: 13.464525, z: -12.635431}
+      lookAt: {x: 5.9525375, y: 5.8858514, z: -5.375304}
+      up: {x: -0.3258441, y: 0.7381113, z: 0.59077686}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 4.895373, y: 0.60687745, z: -5.0917554}
+        lookAt: {x: 1.4942539, y: 1.8178734, z: 5.545271}
+        up: {x: 0.03283303, y: 0.99417186, z: -0.10268555}
+        fov: 30
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Mantle Focus
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _TVs
+    100002: chair-left
+    100004: chair-right
+    100006: coffee table
+    100008: //RootNode
+    100010: firebox enclosure
+    100012: fireplace
+    100014: floor-hardwood
+    100016: floor-rug
+    100018: furniture
+    100020: granite
+    100022: Group 52
+    100024: Group 54
+    100026: Group 56
+    100028: Group 58
+    100030: Group 61
+    100032: Group 63
+    100034: Group 65
+    100036: Group 67
+    100038: log-big
+    100040: log-small
+    100042: log-small 1
+    100044: log-small 2
+    100046: mantle 10.2 nested
+    100048: mantle options
+    100050: sconce-L
+    100052: sconce-R
+    100054: sectional couch
+    100056: TV-65" LG OLED
+    100058: vase-L
+    100060: vase-R
+    100062: wall deco
+    100064: wall-back (mirror)
+    100066: wall-front (fireplace)
+    100068: wall-left (deck)
+    100070: wall-right (nook)
+    100072: walls & floor
+    400000: _TVs
+    400002: chair-left
+    400004: chair-right
+    400006: coffee table
+    400008: //RootNode
+    400010: firebox enclosure
+    400012: fireplace
+    400014: floor-hardwood
+    400016: floor-rug
+    400018: furniture
+    400020: granite
+    400022: Group 52
+    400024: Group 54
+    400026: Group 56
+    400028: Group 58
+    400030: Group 61
+    400032: Group 63
+    400034: Group 65
+    400036: Group 67
+    400038: log-big
+    400040: log-small
+    400042: log-small 1
+    400044: log-small 2
+    400046: mantle 10.2 nested
+    400048: mantle options
+    400050: sconce-L
+    400052: sconce-R
+    400054: sectional couch
+    400056: TV-65" LG OLED
+    400058: vase-L
+    400060: vase-R
+    400062: wall deco
+    400064: wall-back (mirror)
+    400066: wall-front (fireplace)
+    400068: wall-left (deck)
+    400070: wall-right (nook)
+    400072: walls & floor
+    2100000: _defaultMat
+    2100002: Glass
+    2100004: '[0137_Black]'
+    2100006: '[0131_Silver]'
+    2100008: red-sox-screen
+    2100010: silver
+    2100012: fireplace-logs
+    2100014: fireplace-frame
+    2100016: fireplace-interior
+    2100018: fireplace-field
+    2100020: marble
+    2100022: surya-rug
+    2100024: lamp shade
+    2100026: paint-green
+    2100028: '[Mirror 02]'
+    2100030: _5
+    2100032: _2
+    2100034: '[Color_000]'
+    2100036: paint-green transp
+    2100038: paint-white
+    2100040: fireplace-glass
+    2100042: window-view
+    2100044: '[Wood Floor Dark]'
+    2300000: chair-left
+    2300002: chair-right
+    2300004: coffee table
+    2300006: firebox enclosure
+    2300008: floor-hardwood
+    2300010: floor-rug
+    2300012: granite
+    2300014: Group 52
+    2300016: Group 54
+    2300018: Group 56
+    2300020: Group 58
+    2300022: Group 61
+    2300024: Group 63
+    2300026: Group 65
+    2300028: Group 67
+    2300030: log-big
+    2300032: log-small
+    2300034: log-small 1
+    2300036: log-small 2
+    2300038: mantle 10.2 nested
+    2300040: sectional couch
+    2300042: TV-65" LG OLED
+    2300044: vase-L
+    2300046: vase-R
+    2300048: wall-back (mirror)
+    2300050: wall-front (fireplace)
+    2300052: wall-left (deck)
+    2300054: wall-right (nook)
+    3300000: chair-left
+    3300002: chair-right
+    3300004: coffee table
+    3300006: firebox enclosure
+    3300008: floor-hardwood
+    3300010: floor-rug
+    3300012: granite
+    3300014: Group 52
+    3300016: Group 54
+    3300018: Group 56
+    3300020: Group 58
+    3300022: Group 61
+    3300024: Group 63
+    3300026: Group 65
+    3300028: Group 67
+    3300030: log-big
+    3300032: log-small
+    3300034: log-small 1
+    3300036: log-small 2
+    3300038: mantle 10.2 nested
+    3300040: sectional couch
+    3300042: TV-65" LG OLED
+    3300044: vase-L
+    3300046: vase-R
+    3300048: wall-back (mirror)
+    3300050: wall-front (fireplace)
+    3300052: wall-left (deck)
+    3300054: wall-right (nook)
+    4300000: Mesh TV-65" LG OLED
+    4300002: Mesh log-big
+    4300004: Mesh firebox enclosure
+    4300006: Mesh log-small
+    4300008: Mesh granite
+    4300010: Mesh floor-rug
+    4300012: Mesh chair-right
+    4300014: Mesh chair-left
+    4300016: Mesh sectional couch
+    4300018: Mesh coffee table
+    4300020: Mesh Group 52
+    4300022: Mesh Group 54
+    4300024: Mesh Group 56
+    4300026: Mesh Group 58
+    4300028: Mesh vase-L
+    4300030: Mesh mantle 10.2 nested
+    4300032: Mesh wall-back (mirror)
+    4300034: Mesh wall-left (deck)
+    4300036: Mesh wall-right (nook)
+    4300038: Mesh wall-front (fireplace)
+    4300040: Mesh floor-hardwood
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
